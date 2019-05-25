@@ -1,4 +1,4 @@
 #! groovy
-def call(String name = 'human') {
+def call(String name = 'pipeline') {
     echo "hello ${name}"
 }
